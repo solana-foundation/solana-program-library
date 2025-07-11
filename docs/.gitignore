@@ -8,7 +8,6 @@
 .docusaurus
 .cache-loader
 .vercel
-vercel.json
 
 # Misc
 .DS_Store

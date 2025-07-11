@@ -1,0 +1,89 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://www.solana-program.com/docs",
+            "permanent": true
+        },
+        {
+            "source": "/token",
+            "destination": "https://www.solana-program.com/docs/token",
+            "permanent": true
+        },
+        {
+            "source": "/token-2022/:path*",
+            "destination": "https://www.solana-program.com/docs/token-2022",
+            "permanent": true
+        },
+        {
+            "source": "/token-swap",
+            "destination": "https://github.com/solana-labs/solana-program-library/blob/master/docs/src/token-swap.md",
+            "permanent": true
+        },
+        {
+            "source": "/token-lending",
+            "destination": "https://github.com/solana-labs/solana-program-library/blob/master/docs/src/token-swap.md",
+            "permanent": true
+        },
+        {
+            "source": "/associated-token-account",
+            "destination": "https://www.solana-program.com/docs/associated-token-account",
+            "permanent": true
+        },
+        {
+            "source": "/associated-token-account",
+            "destination": "https://www.solana-program.com/docs/associated-token-account",
+            "permanent": true
+        },
+        {
+            "source": "/token-upgrade",
+            "destination": "https://www.solana-program.com/docs/token-wrap",
+            "permanent": true
+        },
+        {
+            "source": "/memo",
+            "destination": "https://www.solana-program.com/docs/memo",
+            "permanent": true
+        },
+        {
+            "source": "/name-service",
+            "destination": "https://github.com/solana-labs/solana-program-library/blob/master/docs/src/name-service.md",
+            "permanent": true
+        },
+        {
+            "source": "/shared-memory",
+            "destination": "https://github.com/solana-labs/solana-program-library/blob/master/docs/src/shared-memory.md",
+            "permanent": true
+        },
+        {
+            "source": "/stake-pool/:path*",
+            "destination": "https://www.solana-program.com/docs/stake-pool",
+            "permanent": true
+        },
+        {
+            "source": "/single-pool",
+            "destination": "https://www.solana-program.com/docs/single-pool",
+            "permanent": true
+        },
+        {
+            "source": "/feature-proposal",
+            "destination": "https://www.solana-program.com/docs/feature-proposal",
+            "permanent": true
+        },
+        {
+            "source": "/confidential-token/:path*",
+            "destination": "https://www.solana-program.com/docs/confidential-balances",
+            "permanent": true
+        },
+        {
+            "source": "/account-compression/:path*",
+            "destination": "https://github.com/solana-labs/solana-program-library/blob/master/docs/src/account-compression.md",
+            "permanent": true
+        },
+        {
+            "source": "/transfer-hook-interface/:path*",
+            "destination": "https://www.solana-program.com/docs/transfer-hook-interface",
+            "permanent": true
+        }
+    ]
+}
