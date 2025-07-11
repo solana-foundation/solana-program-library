@@ -1,6 +1,11 @@
 {
     "redirects": [
         {
+            "source": "/",
+            "destination": "https://www.solana-program.com/docs",
+            "permanent": true
+        },
+        {
             "source": "/token",
             "destination": "https://www.solana-program.com/docs/token",
             "permanent": true
